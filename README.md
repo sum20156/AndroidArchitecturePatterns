@@ -1,4 +1,4 @@
-# AndroidArchitecturePatterns
+# AndroidArchitecturePatterns: MVVM vs MVC vs MVP
 A brief guide over popular architecture pattern for android.
 
 
